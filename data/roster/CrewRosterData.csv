@@ -1,0 +1,11 @@
+"order","shot_name","long_name","duty_date","nth_duty","assign_confirmations","unassign_confirmations"
+1,DEL, DEL-09:00-AUTO , 02/02/2024,1,[true],[true]
+2,CMB, CMB-04:00-AUTO , 06/02/2024,1,[true],[true]
+3,NJF, NJF-21:00-AUTO , 09/02/2024,1,[true],[true]
+4,CMB, CMB-17:50-AUTO , 09/02/2024,2,[true],[true]
+5,SLL, SLL-12:25-AUTO , 11/02/2024,1,[true],[true]
+6,AMM, AMM-04:25-AUTO , 17/02/2024,1,[true],[true]
+7,SHJ-HKT/RST, SHJ-HKT/RS/HKT-SHJ-18:30-AUTO , 18/02/2024,1,[true],[true]
+8,SAW, SAW-15:45 , 24/02/2024,1,[true],[true]
+9,COK, COK-17:40-AUTO , 25/02/2024,1,[true],[true]
+10,AMM, AMM-03:50-AUTO , 29/02/2024,1,[true],[true]
